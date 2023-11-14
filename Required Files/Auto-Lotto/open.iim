@@ -1,0 +1,8 @@
+﻿ADD !EXTRACT {{date}}
+ADD !EXTRACT {{res0}}
+ADD !EXTRACT {{res1}}
+ADD !EXTRACT {{res2}}
+
+SAVEAS TYPE=EXTRACT FOLDER=* FILE=swertres_auto.csv
+
+
