@@ -1,10 +1,11 @@
 # Installation
 
 Assuming you are done installing Firefox(legacy version).
+If not please check README.md
 
 1. Open Firefox
 2. Drag and drop imacros_for_firefox-8.9.7-fx.xpi
-3. Click ìAddî on the upper-right pop-up.
+3. Click ‚ÄúAdd‚Äù on the upper-right pop-up.
 4. Restart Firefox.
 5. You should be able to see the iMacros at the left side of the browser.
 6. Don't worry if you don't see Auto-lotto, I'ved already added mine.
