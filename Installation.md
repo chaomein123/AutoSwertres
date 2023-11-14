@@ -16,9 +16,9 @@ If not please check README.md
 
 
 # How to run the app
-## Note that this app can only return one(1) month at a time
-## This is my unfinished project last 2016, and I don't anticipate updating it. I'm building this just for fun, so regular updates might not be a priority.
-## If I will update this code maybe I will go with Playwright C# automation.
+### Note that this app can only return one(1) month at a time
+### This is my unfinished project last 2016, and I don't anticipate updating it. I'm building this just for fun, so regular updates might not be a priority.
+### If I will update this code maybe I will go with Playwright C# automation.
 
 1. Open Firefox and navigate iMacros.
 2. Navigate to Auto-Lotto\AutoSwertres.js
