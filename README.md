@@ -1,7 +1,5 @@
 # AutoSwertres
- Project Description: Auto Swertres  Auto Swertres is a convenient and efficient tool designed to streamline the process of generating Swertres (a popular lottery game in the Philippines) results in an automated and organized manner.
-
-Auto Swertres is a convenient and efficient tool designed to streamline the process of generating Swertres (a popular lottery game in the Philippines) results in an automated and organized manner. This project aims to simplify the task of creating Excel files containing Swertres results, providing users with a hassle-free solution for managing and documenting lottery outcomes.
+Auto Swertres automates the process of generating the data history for the selected month, ensuring seamless updates for your Swertres file.
 
 This app will generate CSV file for selected month.
 
